@@ -69,6 +69,7 @@
 ## HEPSİ BU KADAR :)
 
 # Repomu yıldızlamayı ve forklamayı unutmayın lütfen :))
+# Rehberimi hazırlarken kaynaklarından faydalandığım CORENODE grubuna teşekkür ederim. 
 
 
 
