@@ -2,10 +2,10 @@
 # ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/15a94d02-a9d7-4f0f-a9a5-bd0e0120655e)
 
 
-## Öncelikle Kamatera hesabı açmalıyız. Buradan windows server kiralayacağız. Eğer henüz bir hesabınız yoksa buradan hesap açabilirsiniz. https://kamatera.com/free-trial/ 
-Güvenlik için kartınızdan 1$çekim yapılacak ve anında iade edilecek. Sanal kart kullanabilirsiniz.
+## Windows server kiralamak için önce Kamatera hesabı açmalıyız.Daha önce açmadıysanız buradan hesap açabilirsiniz. https://kamatera.com/free-trial/ 
+## Güvenlik için kartınızdan 1$çekim yapılacak ve anında iade edilecek. Mutlaka Sanal kart kullanın
 
-## Hesabımızı açtıktan sonra sunucu kiralama kısmına geliyoruz. Bundan sonraki tüm aşamaları adım adım ve dikkatli yaparsanız hatasız bir kurulum yapacağız. Hesabımıza giriş yaptıktan sonra 'My Cloud' sekmesine tıklıyoruz ve 'Servers' butonuna basıyoruz.
+## Hesabımızı açtıysak sunucu kiralama kısmına geliyoruz. Bundan sonraki tüm aşamaları adım adım ve dikkatli yaparsanız hatasız bir kurulum yapacağız. Hesabımıza giriş yaptıktan sonra 'My Cloud' sekmesine tıklıyoruz ve 'Servers' butonuna basıyoruz.
 
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/25460b91-3fe3-48a5-8a96-d69ec13a5333)
 
@@ -22,15 +22,15 @@ Güvenlik için kartınızdan 1$çekim yapılacak ve anında iade edilecek. Sana
 ## Server özelliklerini seçeceğiz.Burası çok önemli!!! Yalnızca işaretlediğimiz özellikleri seçin yoksa ek ücret çıkar. Bu özellikler yeterli olacaktır diye düşünüyoruz.
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/e4f5430b-27db-4392-8f2e-2e8004d6e68f)
 
-## Finalize Settings kısmına kadar olan diğer özellikleri değiştirmiyoruz orada ne ise öyle kalacak. Şimdi biz şifre belirleme aşamasında kurallara uygun bir şifre belirliyoruz. Validate kısmında şifremizi tekrar giriyoruz. Herhangi bir server ismi belirliyoruz örneğin 'Overzcg'
+## Finalize Settings kısmına kadar olan diğer özellikleri değiştirmiyoruz orada ne ise öyle kalacak. Sonra şifremizi belirleyelim. Validate kısmında şifremizi tekrar giriyoruz. Herhangi bir server ismi belirliyoruz örneğin 'Overzcg'
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/1034ab11-008e-4b07-b5aa-0a02d51ce99e)
 
 ## En son aşamada işaretli yeri seçiyoruz ve serverımızı oluşturuyoruz.
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/b735f44b-f6ce-41a0-8319-e281b088d70a)
 
-## Artık windows serverımız hazır :)) ve şimdi MobaXterm uygulamamızı açıyoruz. Eğer  daha önce  indirmediyseniz buradan indirebilirsiniz. https://mobaxterm.mobatek.net/download-home-edition.html
-## Hazırsanız devam edelim. Şimdi adım adım ilerlemeye devam ediyoruz.
+## Artık windows serverımız hazır :)) ve şimdi MobaXterm uygulamamızı açıyoruz. Eğer daha önce indirmediyseniz buradan indirebilirsiniz. https://mobaxterm.mobatek.net/download-home-edition.html
 
+## Hazırsanız devam edelim. Şimdi adım adım ilerlemeye devam ediyoruz.
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/18dafbfc-63b2-4119-8909-33b9e1881c8f)
 
 ## MobaXterm uygulamamızı açtıktan sonra işaretli yere tıklıyoruz.
@@ -48,21 +48,22 @@ Güvenlik için kartınızdan 1$çekim yapılacak ve anında iade edilecek. Sana
 ## Remote Host yerine bir önceki twette yer alan kopyaladığımız uzun kodu yapıştırıyoruz ve Username kısmına da Administrator yazıyoruz. Ardından 'OK' tuşuna basıyoruz ve bizden şifre istediğinde kamaterada belirlediğimiz sunucu şifremizi giriyoruz.
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/c2c58a4b-aab5-410c-b064-a6eec2f8b937)
 
-## Yükleme tamamlandıktan sonra bir pencere açılacak ve artık satın aldığımız windows ekranımıza bağlanmış olacağız. Artık burası bizim seçtiğimiz lokalizasyonda çalışan bilgisayarımız :) Hadi devam edelim. Şimdi @lightfullnodes
+## Yükleme tamamlandıktan sonra bir pencere açılacak ve artık satın aldığımız windows ekranımıza bağlanmış olacağız. Artık burası bizim seçtiğimiz lokalizasyonda çalışan bilgisayarımız :)  Hadi devam edelim.  Şimdi @lightfullnodes
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/e22cb191-4d54-4570-85d5-e5d56e529868)
 
 ## over.network/overnode sitesine giderek windows seçeneğini seçtiktan sonra programı indiriyoruz. Internet explorer kullanmak zor olursa önce bu ekrana explorer üzerinden Chrome indirebilirsiniz. İşlemleri oradan yapabilirsiniz. Devam ediyoruz.
 
-## Uygulama artık bizim sanal sunucumuza kuruldu :)  Ardından uygulamada 'Missions' kısmına tıklayıp mail doğrulaması yapacağız. Bu sayede telefonumuzda kullandığımız OverWallet uygulaması ile entegre olacak.
+## Uygulama artık bizim sanal sunucumuza kuruldu :) Ardından uygulamada 'Missions' kısmına tıklayıp mail doğrulaması yapacağız. Böylece telefonumuzda kullandığımız OverWallet uygulaması ile entegre olacak.
 
-## Mail adresimize gelen bağlantıyı kopyalayıp sanal sunucumuzdaki chrome sayfasında açacağız bunu unutmayın. !!! Kendi bilgisayarımızda değil !!!. Ardından hesaplar senkronize olmuş olacak ve artık telefonunuz ile OverNode bağlantısı kurulmuş sayılacak.
+## Mail adresimize gelen bağlantıyı kopyalayıp sanal sunucumuzdaki chrome sayfasında açacağız bunu unutmayın. !!! Kendi bilgisayarımızda değil !!!. Böylece artık telefonunuz ile OverNode bağlantısı kurulmuş olacak.
 
-## Bize bir cüzdan oluşturulacak ve gizli kelimeler verilecek. Onları MUTLAKA not ediyoruz. Tüm işlemler tamamlanınca uygulamada bu ekranı göreceğiz ve senkron işlemi başlayacak. Sağ tarafta block sayımızı görüyoruz ve sağ altta da bize gönderilen 400 adet tOVER görünüyor.
+## Bize bir cüzdan oluşturulacak ve gizli kelimeler verilecek. Onları MUTLAKA not ediyoruz. Tüm işlemleri doğru yaptıysak uygulamada bu ekranı göreceğiz ve senkron işlemi başlayacak. Sağ tarafta block sayımızı görüyoruz ve sağ altta da bize gönderilen 400 adet tOVER görününecek.
 
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/73925522-02ae-4393-a534-eefbc08dba8f)
 
-## Sol altta işaretli yere tıkladığınızda senkron durumunu ve node'un kullandığı kapasiteyi görüntüleyebiliyoruz.
+## Sol altta işaretli yere tıkladığınızda senkron durumunu ve node'un kullandığı kapasiteyi görebilirsiniz.
 ## ![image](https://github.com/zeycan1/OVER-PROTOCOL/assets/108004368/a16bcbf8-dd83-431c-97f0-49f9a92fdf35)
+
 ## Sol üst köşede Account kısmında size verilen cüzdan adresi var. Eğer tOVER'lar gelmediyse discord sunucusuna giderek OverNode Validatör rolünü aldıktan sonra Over Donation kanalına bu cüzdan adresini bırakabilirsiniz.
 
 ## HEPSİ BU KADAR :)
